@@ -12,12 +12,12 @@ Além de atender aos requisitos do desafio, este projeto busca demonstrar como a
 
 # 🎯 Objetivos
 
-* Compreender a evolução da exploração lunar.
-* Estudar o Programa Apollo e seu legado.
-* Analisar os objetivos e tecnologias do Programa Artemis.
-* Investigar os desafios da construção de uma base lunar permanente.
-* Entender como a Lua servirá como preparação para futuras missões tripuladas a Marte.
-* Utilizar IA para organizar, resumir e estruturar conhecimento técnico.
+- Compreender a evolução da exploração lunar.
+- Estudar o Programa Apollo e seu legado.
+- Analisar os objetivos e tecnologias do Programa Artemis.
+- Investigar os desafios da construção de uma base lunar permanente.
+- Entender como a Lua servirá como preparação para futuras missões tripuladas a Marte.
+- Utilizar IA para organizar, resumir e estruturar conhecimento técnico.
 
 ---
 
@@ -25,22 +25,22 @@ Além de atender aos requisitos do desafio, este projeto busca demonstrar como a
 
 ## NASA
 
-* https://www.nasa.gov/humans-in-space/artemis/
-* https://www.nasa.gov/reference/moonbase-about/
-* https://www.nasa.gov/history/apollo-program/
-* https://www.nasa.gov/mission_pages/apollo/missions/index.html
+- https://www.nasa.gov/humans-in-space/artemis/
+- https://www.nasa.gov/reference/moonbase-about/
+- https://www.nasa.gov/history/apollo-program/
+- https://www.nasa.gov/mission_pages/apollo/missions/index.html
 
 ## Wikipedia
 
-* https://en.wikipedia.org/wiki/Artemis_program
-* https://en.wikipedia.org/wiki/Apollo_program
-* https://en.wikipedia.org/wiki/Lunar_outpost
+- https://en.wikipedia.org/wiki/Artemis_program
+- https://en.wikipedia.org/wiki/Apollo_program
+- https://en.wikipedia.org/wiki/Lunar_outpost
 
 ## Fontes Complementares
 
-* Relatório gerado pelo Deep Research do NotebookLM
-* Artigos técnicos sobre ISRU (In-Situ Resource Utilization)
-* Materiais sobre Moon Base e exploração do Polo Sul Lunar
+- Relatório gerado pelo Deep Research do NotebookLM
+- Artigos técnicos sobre ISRU (In-Situ Resource Utilization)
+- Materiais sobre Moon Base e exploração do Polo Sul Lunar
 
 ---
 
@@ -48,21 +48,21 @@ Além de atender aos requisitos do desafio, este projeto busca demonstrar como a
 
 ## Prompt 1
 
-**Pergunta**
+### Pergunta
 
 ```text
 Crie um relatório detalhado explicando a evolução da exploração lunar desde o Programa Apollo até o Programa Artemis.
 ```
 
-**Resultado**
+### Resultado
 
 Geração de um relatório completo comparando Apollo e Artemis, incluindo astronautas, tecnologias e objetivos.
 
-**Aprendizado**
+### Aprendizado
 
 Prompts amplos e contextualizados geram respostas mais completas.
 
-**Cicatriz**
+### Cicatriz
 
 Informações futuras devem ser verificadas diretamente nas fontes.
 
@@ -70,21 +70,21 @@ Informações futuras devem ser verificadas diretamente nas fontes.
 
 ## Prompt 2
 
-**Pergunta**
+### Pergunta
 
 ```text
 Crie uma linha do tempo completa da exploração lunar, desde o Programa Apollo até o Programa Artemis.
 ```
 
-**Resultado**
+### Resultado
 
 Linha do tempo organizada cobrindo mais de 60 anos de exploração espacial.
 
-**Aprendizado**
+### Aprendizado
 
 Estruturas cronológicas ajudam a organizar grandes volumes de informação.
 
-**Cicatriz**
+### Cicatriz
 
 A IA pode misturar eventos históricos com projeções futuras.
 
@@ -92,17 +92,17 @@ A IA pode misturar eventos históricos com projeções futuras.
 
 ## Prompt 3
 
-**Pergunta**
+### Pergunta
 
 ```text
 Quais são os maiores desafios para manter seres humanos vivendo na Lua por longos períodos?
 ```
 
-**Resultado**
+### Resultado
 
 Análise dos desafios ambientais, tecnológicos, energéticos e fisiológicos da vida lunar.
 
-**Aprendizado**
+### Aprendizado
 
 Perguntas focadas em problemas geram respostas mais profundas.
 
@@ -110,17 +110,17 @@ Perguntas focadas em problemas geram respostas mais profundas.
 
 ## Prompt 4
 
-**Pergunta**
+### Pergunta
 
 ```text
 Quais astronautas tiveram maior impacto na história da exploração lunar e por quê?
 ```
 
-**Resultado**
+### Resultado
 
 Mapeamento dos principais astronautas da Era Apollo e do Programa Artemis.
 
-**Aprendizado**
+### Aprendizado
 
 O fator humano é tão importante quanto a tecnologia na exploração espacial.
 
@@ -128,13 +128,13 @@ O fator humano é tão importante quanto a tecnologia na exploração espacial.
 
 ## Prompt 5
 
-**Pergunta**
+### Pergunta
 
 ```text
 Crie um glossário completo com os principais termos relacionados ao Programa Apollo, Programa Artemis, exploração lunar, base lunar e futuras missões para Marte.
 ```
 
-**Resultado**
+### Resultado
 
 Criação de um glossário técnico com dezenas de conceitos fundamentais.
 
@@ -142,13 +142,13 @@ Criação de um glossário técnico com dezenas de conceitos fundamentais.
 
 ## Prompt 6
 
-**Pergunta**
+### Pergunta
 
 ```text
 Crie uma lista de prompts reutilizáveis para estudar exploração lunar, Programa Artemis, astronautas, bases lunares e futuras missões para Marte.
 ```
 
-**Resultado**
+### Resultado
 
 Conjunto de prompts reutilizáveis para futuras revisões e aprofundamentos.
 
@@ -166,68 +166,68 @@ O Programa Artemis possui uma abordagem diferente: estabelecer uma presença hum
 
 ## Linha do Tempo Resumida
 
-* 1961 — Início do Programa Apollo
-* 1969 — Apollo 11 realiza o primeiro pouso lunar
-* 1972 — Apollo 17 encerra a Era Apollo
-* 2017 — Criação oficial do Programa Artemis
-* 2022 — Artemis I
-* Futuro — Construção do Moon Base no Polo Sul Lunar
+- 1961 — Início do Programa Apollo
+- 1969 — Apollo 11 realiza o primeiro pouso lunar
+- 1972 — Apollo 17 encerra a Era Apollo
+- 2017 — Criação oficial do Programa Artemis
+- 2022 — Artemis I
+- Futuro — Construção do Moon Base no Polo Sul Lunar
 
 ---
 
 ## Principais Astronautas
 
-* Neil Armstrong
-* Buzz Aldrin
-* Michael Collins
-* Alan Shepard
-* Harrison Schmitt
-* Eugene Cernan
-* Christina Koch
-* Victor Glover
-* Jeremy Hansen
-* Reid Wiseman
+- Neil Armstrong
+- Buzz Aldrin
+- Michael Collins
+- Alan Shepard
+- Harrison Schmitt
+- Eugene Cernan
+- Christina Koch
+- Victor Glover
+- Jeremy Hansen
+- Reid Wiseman
 
 ---
 
 ## Principais Desafios da Vida na Lua
 
-* Radiação espacial
-* Temperaturas extremas
-* Gravidade reduzida
-* Poeira lunar (Regolito)
-* Produção de água e oxigênio
-* Energia para a noite lunar
-* Logística de suprimentos
-* Sustentabilidade de longo prazo
+- Radiação espacial
+- Temperaturas extremas
+- Gravidade reduzida
+- Poeira lunar (Regolito)
+- Produção de água e oxigênio
+- Energia para a noite lunar
+- Logística de suprimentos
+- Sustentabilidade de longo prazo
 
 ---
 
 # 📖 Glossário
 
-| Termo        | Significado                                                                 |
-| ------------ | --------------------------------------------------------------------------- |
-| Artemis      | Programa atual da NASA para retorno à Lua                                   |
-| Apollo       | Programa responsável pelos primeiros pousos lunares                         |
-| Orion        | Cápsula tripulada do Programa Artemis                                       |
-| SLS          | Foguete principal do Programa Artemis                                       |
-| ISRU         | Utilização de recursos locais para produção de água, oxigênio e combustível |
-| Regolito     | Poeira presente na superfície lunar                                         |
-| Moon Base    | Futura base permanente da NASA na Lua                                       |
-| Shackleton   | Cratera localizada no Polo Sul Lunar                                        |
-| Starship HLS | Sistema de pouso lunar desenvolvido pela SpaceX                             |
-| CLPS         | Programa de entrega comercial de cargas lunares                             |
+| Termo | Significado |
+|---------|---------|
+| Artemis | Programa atual da NASA para retorno à Lua |
+| Apollo | Programa responsável pelos primeiros pousos lunares |
+| Orion | Cápsula tripulada do Programa Artemis |
+| SLS | Foguete principal do Programa Artemis |
+| ISRU | Utilização de recursos locais para produção de água, oxigênio e combustível |
+| Regolito | Poeira presente na superfície lunar |
+| Moon Base | Futura base permanente da NASA na Lua |
+| Shackleton | Cratera localizada no Polo Sul Lunar |
+| Starship HLS | Sistema de pouso lunar desenvolvido pela SpaceX |
+| CLPS | Programa de entrega comercial de cargas lunares |
 
 ---
 
 # 🔄 Prompts Reutilizáveis
 
-* Explique a evolução da exploração lunar desde Apollo até Artemis.
-* Compare as tecnologias utilizadas nos programas Apollo e Artemis.
-* Quais são os desafios para construir uma base lunar permanente?
-* Como a Lua será utilizada como preparação para Marte?
-* O que é ISRU e por que ele é importante para a exploração espacial?
-* Explique o papel do Polo Sul Lunar nos planos futuros da NASA.
+- Explique a evolução da exploração lunar desde Apollo até Artemis.
+- Compare as tecnologias utilizadas nos programas Apollo e Artemis.
+- Quais são os desafios para construir uma base lunar permanente?
+- Como a Lua será utilizada como preparação para Marte?
+- O que é ISRU e por que ele é importante para a exploração espacial?
+- Explique o papel do Polo Sul Lunar nos planos futuros da NASA.
 
 ---
 
@@ -251,16 +251,34 @@ Durante o desenvolvimento deste projeto foram utilizados diversos recursos nativ
 
 ✅ Apresentação Automática (14+ slides)
 
-Esses recursos permitiram transformar dezenas de fontes em uma base estruturada de conhecimento.
+---
+
+# 🖼️ Recursos Visuais
+
+## 🎴 Cartões Didáticos
+
+![Flashcards](assets/Flashcards.png)
+
+---
+
+## 🎥 Resumo em Vídeo
+
+![Vídeo](assets/Video.png)
+
+---
+
+## 📊 Apresentação Gerada
+
+![Slides](assets/Slides.png)
 
 ---
 
 # 🏆 Principais Aprendizados
 
-* A exploração espacial moderna é baseada em sustentabilidade e colaboração internacional.
-* A Lua deixou de ser apenas um destino e passou a ser um laboratório para futuras missões a Marte.
-* O uso de IA pode acelerar significativamente processos de estudo e organização de conhecimento.
-* A qualidade dos prompts influencia diretamente a qualidade dos resultados obtidos.
+- A exploração espacial moderna é baseada em sustentabilidade e colaboração internacional.
+- A Lua deixou de ser apenas um destino e passou a ser um laboratório para futuras missões a Marte.
+- O uso de IA pode acelerar significativamente processos de estudo e organização de conhecimento.
+- A qualidade dos prompts influencia diretamente a qualidade dos resultados obtidos.
 
 ---
 
